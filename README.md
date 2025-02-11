@@ -116,7 +116,7 @@ driver.close()
 ## Running the Script
 Run the script using:
 ```sh
-python script.py
+python Data Scraping.py
 ```
 Ensure Chrome WebDriver is in your system's PATH or specify its location in the script.
 
